@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3e2723</color>
+    <color name="colorPrimaryDark">#3e2723</color>
+    <color name="colorPrimaryDarkPress">#503e2723</color>
+    <color name="colorPrimaryLight">#bcaaa4</color>
+
+    <color name="colorPrimary1">#3F51B5</color>
+    <color name="colorPrimaryDark1">#303F9F</color>
+
+    <color name="colorAccent">#555555</color>
+    <color name="background_window">#FFE5E5E5</color>
+    <color name="Peru">#CD853F</color>
+    <color name="SaddleBrown">#8B4513</color>
+    <color name="Black">#212121</color>
+    <color name="black">#333333</color>
+    <color name="color_silver">#bdc3c7</color>
+
+</resources>
